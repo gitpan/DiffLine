@@ -1,0 +1,7 @@
+Revision history for Perl extension String::DiffLine.
+
+0.01  Fri Jan 28 19:38:08 2000
+	- original version; created by h2xs 1.18
+
+0.02  Mon Jan 31 15:45:00 2000
+	- updated docs with identical-string return values
